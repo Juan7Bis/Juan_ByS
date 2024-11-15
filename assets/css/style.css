@@ -15,7 +15,7 @@ Em resumo, o CSS traz estilo e organização à estrutura HTML, melhorando a exp
     max-width: 1200px; /* Limita a largura máxima para 1200px para telas maiores */
     margin: 0 auto; /* Centraliza o contêiner horizontalmente */
     padding: 20px; /* Adiciona espaçamento interno ao redor do conteúdo */
-    background-color: #f0f0f0; /* Cor de fundo cinza claro */
+    background-color: #61ee54; /* Cor de fundo cinza claro */
     border-radius: 10px; /* Arredonda as bordas */
     align-items: center; /* Centraliza os itens dentro do contêiner */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra leve ao redor do contêiner */
@@ -30,7 +30,7 @@ Em resumo, o CSS traz estilo e organização à estrutura HTML, melhorando a exp
     align-items: center; /* Centraliza os itens na linha transversal */
     gap: 1rem; /* Espaçamento entre os itens do contêiner */
     font-size: 20px; /* Tamanho da fonte para o conteúdo dentro da seção */
-    color: #333; /* Cor do texto em cinza escuro */
+    color: #000000; /* Cor do texto em cinza escuro */
 }
 
 /* Estilos para os cartões */
@@ -42,12 +42,12 @@ Em resumo, o CSS traz estilo e organização à estrutura HTML, melhorando a exp
     justify-content: center; /* Centraliza o conteúdo horizontalmente */
     align-items: center; /* Centraliza o conteúdo verticalmente */
     text-align: justify; /* Justifica o texto dentro do cartão */
-    background-color: #333; /* Cor de fundo do cartão */
+    background-color: #1ee5c4; /* Cor de fundo do cartão */
     margin: 10px; /* Espaçamento entre os cartões */
     border-radius: 8px; /* Arredonda as bordas do cartão */
     transition: transform 0.3s ease-in-out; /* Suaviza a transformação ao passar o mouse */
     perspective: 1000px; /* Cria uma profundidade 3D para animações de rotação */
-    color: #fff; /* Define a cor do texto como branco */
+    color: #ffffff; /* Define a cor do texto como branco */
     overflow: hidden; /* Oculta qualquer conteúdo que ultrapasse as bordas do cartão */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra ao redor do cartão */
 }
