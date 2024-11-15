@@ -19,7 +19,7 @@ Em resumo, o CSS traz estilo e organização à estrutura HTML, melhorando a exp
     border-radius: 10px; /* Arredonda as bordas */
     align-items: center; /* Centraliza os itens dentro do contêiner */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra leve ao redor do contêiner */
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* Define a fonte padrão do contêiner */
+    font-family: initial; /* Define a fonte padrão do contêiner */
 }
 
 /* Estilos para o conteúdo flexível e responsivo */
